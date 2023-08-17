@@ -1,4 +1,4 @@
 # expense-tracker
-A static expense tracker built by following Maximilian Schwarzmüller react course.
+An expense tracker built by using react
 
 
